@@ -51,7 +51,7 @@
 }
 .col-9 {
     flex-basis: calc((100% / 12) * 9);
-    max-width: calc((00% / 12) * 9);
+    max-width: calc((100% / 12) * 9);
 }
 .col-10 {
     flex-basis: calc((100% / 12) * 10);

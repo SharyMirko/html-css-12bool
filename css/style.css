@@ -1,0 +1,11 @@
+[class*="col-"] {
+    height: 50px;
+    background-color: aqua;
+    border: 1px solid white;
+}
+
+.green {
+    height: 40px;
+    background-color: green;
+    margin-top: 4px;
+}
